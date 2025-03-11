@@ -32,5 +32,29 @@ GC improves the optimization process by centralizing gradients, regularizing wei
 
 This study aims to compare Deep Neural Networks trained with and without GC, focusing on general image classification. It will evaluate GC’s impact on training efficiency, generalization, and performance metrics, providing insights into its effect on
 
- <img width="587" alt="Screenshot 2025-03-10 at 11 50 28 PM" src="https://github.com/user-attachments/assets/03ae9ef5-70c1-4628-a637-88d51236ec0b" />
+
+
+RESULTS:
+
+1. SGD
+
+<img width="371" alt="Screenshot 2025-03-10 at 11 55 15 PM" src="https://github.com/user-attachments/assets/10833a46-e41f-43b6-a878-ccced932582a" />
+
+2. SGDM
+
+<img width="369" alt="Screenshot 2025-03-10 at 11 55 51 PM" src="https://github.com/user-attachments/assets/c9d7082e-87a9-4492-8e70-0a8975fd1427" />
+
+3. Adagrad
+
+<img width="369" alt="Screenshot 2025-03-10 at 11 56 05 PM" src="https://github.com/user-attachments/assets/42c11502-2b76-4c8c-b841-1c91c3d5e89b" />
+
+4. Adam
+
+<img width="373" alt="Screenshot 2025-03-10 at 11 56 25 PM" src="https://github.com/user-attachments/assets/d2b43e45-f77e-4a75-a6c9-789020aa9441" />
+
+5. RMSProp
+   
+<img width="368" alt="Screenshot 2025-03-10 at 11 56 38 PM" src="https://github.com/user-attachments/assets/9078d644-4a90-4d58-932a-364f709a3839" />
+
+
 
